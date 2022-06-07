@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantin Kuteykin-Teplyakov, the researcher.
+- 👋 Hi, I’m Konstantin Kuteykin-Teplyakov, researcher.
 - 👀 I’m interested in study of Intelligence (both Artificial and Natural) and mechanisms of Cognition.
 - 🌱 I’m currently learning Data Science (Machine Learning / Deep Learning) and its application for Drug Discovery.
 - 📫 How to reach me ... write to <konstantin.kuteykin@upf.edu>
