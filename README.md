@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Konstantin Kuteykin-Teplyakov, researcher.
-- 👀 I’m interested in study of Intelligence (both Artificial and Natural) and mechanisms of Cognition.
-- 🌱 I’m currently learning Data Science (Machine Learning / Deep Learning) and its application for Drug Discovery.
+- 👋 Hi, I’m Dr. Konstantin Kuteykin-Teplyakov, researcher with solid background in Natural Sciences.
+- 🌱 For now I'm focusing on Data Science (Machine Learning / Deep Learning) in general, and especially on its application for biomedical domain (Drug Discovery, search for novel biomarkers, NLP for biomedical texts, analysis of genomic and proteomic data etc.)
+- - 👀 I’m very curious about Intelligence (both Artificial and Natural) and mechanisms of Cognition.
 - 📫 Wanna reach me? Write to <konstantin.kuteykin@upf.edu>
 - 
 
